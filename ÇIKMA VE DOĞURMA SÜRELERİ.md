@@ -1,0 +1,111 @@
+HAYVANLARIN YUMURTADAN ÇIKMA VE DOĞURMA SÜRELERİ;
+-Allosaurus - 5 dakika
+-Angler - 14 dakika 59 saniye
+-Ankylosaurus - 7 dakika 53 saniye
+-Archaeopteryx - 7 dakika 53 saniye
+-Argentavis - 8 dakika 49 saniye
+-Baryonyx - 5 dakika 59 saniye
+-Basilosaurus - 23 dakika 48 saniye
+-Beelzebufo - 23 dakika 48 saniye
+-Blood Crystal Wyvern - 14 dakika 59 saniye
+-Bloodstalker - 8 dakika 49 saniye
+-Brontosaurus - 14 dakika 59 saniye
+-Bulbdog - 12 dakika 31 saniye
+-Carbonemys - 3 dakika 45 saniye
+-Carnotaurus - 5 dakika
+-Castoroides - 23 dakika 48 saniye
+-Chalicotherium - 23 dakika 48 saniye
+-Compsognathus - 2 dakika 30 saniye
+-Daedon - 23 dakika 48 saniye
+-Deinonychus - 14 dakika 59 saniye
+-Dilophosaurus - 3 dakika 24 saniye
+-Dimetrodon - 7 dakika 29 saniye
+-Dimorphodon - 4 dakika 3 saniye
+-Diplocaulus - 14 dakika 59 saniye
+-Diplodocus - 14 dakika 59 saniye
+-Direbear - 11 dakika 54 saniye
+-Direwolf - 12 dakika 31 saniye
+-Dodo - 2 dakika 30 saniye
+-Doedicurus - 14 dakika 52 saniye
+-Dunkleosteus - 23 dakika 48 saniye
+-Electrophorus - 14 dakika 59 saniye
+-Ember Crystal Wyvern - 14 dakika 59 saniye
+-Equus - 39 dakika 40 saniye
+-Featherlight - 5 dakika
+-Ferox - 29 dakika 45 saniye
+-Fire Wyvern - 14 dakika 59 saniye
+-Gacha - 23 dakika 48 saniye
+-Gallimimus - 4 dakika 17 saniye
+-GasBag - 23 dakika 48 saniye
+-Giganotosaurus - 2 saat 29 dakika 59 saniye
+-Gigantopithecus - 19 dakika 50 saniye
+-Glowtail - 7 dakika 29 saniye
+-Hesperornis - 4 dakika 32 saniye
+-Hyaenodon - 11 dakika 54 saniye
+-İce Wyvern - 14 dakika 59 saniye
+-Ichtyhosaurus - 23 dakika 48 saniye
+-Iguanodon - 4 dakika 17 saniye
+-Jerboa - 7 dakika 56 saniye
+-Kairuku - 4 dakika 32 saniye
+-Kaprosuchus - 5 dakika 59 saniye
+-Kentrosaurus - 8 dakika 19 saniye
+-Lightning Wyvern - 14 dakika 59 saniye
+-Lystrosaurus - 2 dakika 30 saniye
+-Magmasaur - 14 dakika 59 saniye
+-Mammoth - 23 dakika 48 saniye
+-Managarmr - 11 dakika 54 saniye
+-Manta - 23 dakika 48 saniye
+-Megachelon - 14 dakika 59 saniye
+-Megalania - 5 dakika 59 saniye
+-Megaloceros - 18 dakika 18 saniye
+-Megalodon - 23 dakika 48 saniye
+-Megalosaurus - 5 dakika
+-Megatherium - 23 dakika 48 saniye
+-Mesopithecus - 7 dakika 56 saniye
+-Microraptor - 4 dakika 17 saniye
+-Morellatops - 7 dakika 29 saniye
+-Mosasaurus - 23 dakika 48 saniye
+-Moschops - 7 dakika 53 saniye
+-Otter - 23 dakika 48 saniye
+-Oviraptor - 3 dakika 24 saniye
+-Ovis - 12 dakika 31 saniye
+-Pachycephalosaurus - 4 dakika 17 saniye
+-Pachyrhinosaurus - 7 dakika 29 saniye
+-Paraceratherium - 23 dakika 48 saniye
+-Parasaurolophus - 4 dakika 17 saniye
+-Pegomastax - 3 dakika 24 saniye
+-Pelagornis - 5 dakika
+-Phomia - 29 dakika 45 saniye
+-Plesiosaur - 23 dakika 48 saniye
+-Poison Wyvern - 14 dakika 59 saniye
+-Procoptodon - 11 dakika 54 saniye
+-Pteranodon - 5 dakika
+-Purlovia - 12 dakika 31 saniye
+-Quetzalcoatlus - 49 dakika 59 saniye
+-Raptor - 5 dakika 59 saniye
+-Ravager - 12 dakika 31 saniye
+-Reaper King - 36 dakika
+-Rex - 14 dakika 59 saniye
+-Rock Drake - 18 dakika 44 saniye
+-Roll Rat - 14 dakika 52 saniye
+-Sabertooth - 12 dakika 31 saniye
+-Sarcosuchus - 7 dakika 29 saniye
+-Shinehorn - 12 dakika 31 saniye
+-Snow Owl - 8 dakika 49 saniye
+-Spinosaurus - 11 dakika 32 saniye
+-Stegosaurus - 8 dakika 19 saniye
+-Tapejara - 5 dakika
+-Terror Bird - 5 dakika 59 saniye
+-Therizinosaurus - 5 dakika
+-Thorny Dragon - 7 dakika 29 saniye
+-Thylacoleo - 12 dakika 31 saniye
+-Triceratops - 7 dakika 29 saniye
+-Troodon - 3 dakika 24 saniye
+-Tropeognathus - 5 dakika
+-Tropical Crystal Wyvern - 14 dakika 59 saniye
+-Tusoteuthis - 14 dakika 59 saniye
+-Unicorn - 39 dakika 40 saniye
+-Velonasaur - 3 dakika 24 saniye
+-Vulture - 4 dakika 3 saniye
+-Woolly Rhino - 11 dakika 54 saniye
+-Yutyrannus - 14 dakika 59 saniye
