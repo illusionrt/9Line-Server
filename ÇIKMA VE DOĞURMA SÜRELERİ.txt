@@ -1,114 +1,177 @@
-DİKKAT :  BÜYÜME SÜRELERİ EN FAZLA 10 SAAT EN DÜŞÜK 2 SAAT OLARAK AYARLANMIŞTIR HAYVANDAN HAYVANA DEĞİŞİKLİKLER OLABİLİR.
-DİKKAT :  ÇİFTLEŞME SÜRELERİ EN FAZLA 8 SAAT EN DÜŞÜK 3 SAAT OLARAK AYARLANMIŞTIR HAYVANDAN HAYVANA DEĞİŞİKLİKLER OLABİLİR.
-
-HAYVANLARIN YUMURTADAN ÇIKMA VE DOĞURMA SÜRELERİ;
--Allosaurus - 10 dakika 30 saniye
--Angler - 20 dakika 30 saniye
--Ankylosaurus - 9 dakika 30 saniye
--Archaeopteryx - 9 dakika 30 saniye
--Argentavis - 10 dakika 30 saniye
--Baryonyx - 8 dakika 30 saniye
--Basilosaurus - 35 dakika 30 saniye
--Beelzebufo - 30 dakika 30 saniye
--Blood Crystal Wyvern - 16 dakika 30 saniye
--Bloodstalker - 12 dakika 30 saniye
--Brontosaurus - 17 dakika 45 saniye
--Bulbdog - 12 dakika 45 saniye
--Carbonemys - 3 dakika 45 saniye
--Carnotaurus - 5 dakika 45 saniye
--Castoroides - 36 dakika 45 saniye
--Chalicotherium - 27 dakika 50 saniye
--Compsognathus - 2 dakika 50 saniye
--Daedon - 39 dakika 50 saniye
--Deinonychus - 17 dakika 59 saniye
--Dilophosaurus - 5 dakika 24 saniye
--Dimetrodon - 10 dakika 29 saniye
--Dimorphodon - 10 dakika 3 saniye
--Diplocaulus - 20 dakika 59 saniye
--Diplodocus - 19 dakika 59 saniye
--Direbear - 14 dakika 54 saniye
--Direwolf - 18 dakika 31 saniye
--Dodo - 3 dakika 30 saniye
--Doedicurus - 16 dakika 52 saniye
--Dunkleosteus - 25 dakika 48 saniye
--Electrophorus - 22 dakika 59 saniye
--Ember Crystal Wyvern - 17 dakika 10 saniye
--Equus - 55 dakika  40 saniye 10 saniye
--Featherlight - 8 dakika 25 saniye
--Ferox - 32 dakika 45 saniye
--Fire Wyvern - 36 dakika 14 saniye
--Gacha - 25 dakika 27 saniye
--Gallimimus - 6 dakika 47 saniye
--GasBag - 27 dakika 48 saniye
--Giganotosaurus - 4 saat 29 dakika 59 saniye
--Gigantopithecus - 28 dakika 50 saniye
--Glowtail - 9 dakika 29 saniye
--Hesperornis - 6 dakika 32 saniye
--Hyaenodon - 17 dakika 54 saniye
--İce Wyvern - 17 dakika 59 saniye
--Ichtyhosaurus - 30 dakika 48 saniye
--Iguanodon - 5 dakika 17 saniye
--Jerboa - 9 dakika 56 saniye
--Kairuku - 6 dakika 32 saniye
--Kaprosuchus - 7 dakika 59 saniye
--Kentrosaurus - 12 dakika 19 saniye
--Lightning Wyvern - 14 dakika 59 saniye
--Lystrosaurus - 5 dakika 30 saniye
--Magmasaur - 18 dakika 59 saniye
--Mammoth - 30 dakika 48 saniye
--Managarmr - 31 dakika 54 saniye
--Manta - 23 dakika 48 saniye
--Megachelon - 18 dakika 59 saniye
--Megalania - 10 dakika 59 saniye
--Megaloceros - 18 dakika 18 saniye
--Megalodon - 28 dakika 48 saniye
--Megalosaurus - 5 dakika
--Megatherium - 23 dakika 48 saniye
--Mesopithecus - 7 dakika 56 saniye
--Microraptor - 4 dakika 17 saniye
--Morellatops - 7 dakika 29 saniye
--Mosasaurus - 23 dakika 48 saniye
--Moschops - 7 dakika 53 saniye
--Otter - 23 dakika 48 saniye
--Oviraptor - 3 dakika 24 saniye
--Ovis - 12 dakika 31 saniye
--Pachycephalosaurus - 4 dakika 17 saniye
--Pachyrhinosaurus - 7 dakika 29 saniye
--Paraceratherium - 23 dakika 48 saniye
--Parasaurolophus - 4 dakika 17 saniye
--Pegomastax - 3 dakika 24 saniye
--Pelagornis - 5 dakika
--Phomia - 29 dakika 45 saniye
--Plesiosaur - 23 dakika 48 saniye
--Poison Wyvern - 14 dakika 59 saniye
--Procoptodon - 11 dakika 54 saniye
--Pteranodon - 5 dakika
--Purlovia - 12 dakika 31 saniye
--Quetzalcoatlus - 49 dakika 59 saniye
--Raptor - 5 dakika 59 saniye
--Ravager - 12 dakika 31 saniye
--Reaper King - 36 dakika 59 saniye
--Rex - 20 dakika  59 saniye
--Rock Drake - 20 dakika 44 saniye
--Roll Rat - 14 dakika 52 saniye
--Sabertooth - 12 dakika 31 saniye
--Sarcosuchus - 9 dakika 29 saniye
--Shinehorn - 12 dakika 31 saniye
--Snow Owl - 8 dakika 49 saniye
--Spinosaurus - 11 dakika 32 saniye
--Stegosaurus - 8 dakika 19 saniye
--Tapejara - 5 dakika
--Terror Bird - 5 dakika 59 saniye
--Therizinosaurus - 5 dakika
--Thorny Dragon - 7 dakika 29 saniye
--Thylacoleo - 12 dakika 31 saniye
--Triceratops - 7 dakika 29 saniye
--Troodon - 3 dakika 24 saniye
--Tropeognathus - 5 dakika
--Tropical Crystal Wyvern - 14 dakika 59 saniye
--Tusoteuthis - 14 dakika 59 saniye
--Unicorn - 39 dakika 40 saniye
--Velonasaur - 3 dakika 24 saniye
--Vulture - 4 dakika 3 saniye
--Woolly Rhino - 11 dakika 54 saniye
--Yutyrannus - 14 dakika 59 saniye
+SS Auto Turret 0
+SS Auto Crafter 1
+SS Ballista Turret 0
+SS Cannon Turret 0
+SS Laser Turret 0
+SS Flame Turret 0
+SS Minigun Turret 0 
+SS Rocket Turret 0
+SS Tek Turret 250
+SS Heavy Turret 1000
+SS Tranq Turret 0
+SS Simple Bed 0
+SS Bunk Bed 0
+SS Tek Bed 15
+SS Bee Hive 3
+SS Blueprint Maker 0
+SS Animal Tender 0
+SS Charge Injector 0
+SS Charge Station 0
+SS Cloning Chamber 1
+SS Converter 1
+SS Cryofridge 10
+SS Crystal Cracker 1
+SS Dedicated Storage 50
+SS Dedicated Storage Intake 3
+SS Drone Terminal 0
+SS Dyeria 0
+SS Element Catalyzer 0
+SS Small Elevator Track 0
+SS Large Elevator Platform 0
+SS Medium Elevator Platform 0
+SS Small Elevator Platform 0
+SS Farmer 1
+SS Tek Forcefield 3
+SS Fridge 2
+SS Tek Fridge 3
+SS Gacha Gavager 1
+SS Gardener 1
+SS Tek Gas Collector 20
+SS Generator 10
+SS Tek Generator 10
+SS Wind Turbine 1
+SS Mutator 6
+SS Hatchery 1
+SS HoverSkiff 0
+SS Industrial Cooker 1
+SS Industrial Forge 1
+SS Industrial Grill 1
+SS Industrial Grinder 1
+SS Item Collector 1
+SS Item Translocator 2
+SS Tek Leash 20
+SS Tek Light 0
+SS Mannequin 5
+SS Multi Lamp 2
+SS Nanny 2
+SS Electrical Outlet 4
+SS Planetary Shield 0
+SS Repair Station 2
+SS Sheep Herder 2
+SS Shield Post 4
+SS Metal Spike Wall 400
+SS Wood Spike Wall 400
+SS Bookshelf 2
+SS Storage Large 20
+SS Storage Metal 5
+SS Storage Small 0
+SS Tek Storage 20
+SS Taxidermy Base Large 2
+SS Taxidermy Base Medium 2
+SS Taxidermy Base Small 2
+SS Tek Bridge 2
+SS Tek Laboratory 1
+SS Tek Cooking Pot 1
+SS Tek Forge 1
+SS Tek Jump Pad 0
+SS Tek Sensor 2
+SS Tek Stove 1
+SS Teleporter 4
+SS Transmitter 2
+SS Vault 10
+SS Vivarium 2
+SS Metal Water Tank 0
+SS Stone Water Tank 0
+SS Beer Barrel 0
+SS Campfire 6
+SS Chem Bench 2
+SS Compost Bin 1
+SS Cooking Pot 1
+SS Fabricator 2
+SS Fireplace 1
+SS Mortar Pestle 3
+SS Preserving Bin 1
+SS Forge  6
+SS Replicator 2
+SS Smithy 2
+SS Crafting Station 2
+SS Large Crop Plot 40
+SS Medium Crop Plot 0
+SS Seamless Crop Plot Square 0
+SS Seamless Crop Plot Triangle 0
+SS Small Crop Plot 0
+SS Adobe Door 0
+SS Glass Door 0
+SS Thatch Door 0
+SS Wood Door 0
+SS Wood Double Door 0
+SS Glass Double Door 0
+SS Adobe Double Door 0
+SS Adobe Large Gate 0
+SS Adobe Gate 0
+SS Glass Gate 0
+SS Wood Gate 0
+SS Adobe Trapdoor 0
+SS Glass Trapdoor 0
+SS Metal Door 0
+SS Moonpool Trapdoor 0
+SS Stone Trapdoor 0
+SS Tek Trapdoor 0
+SS Wood Trapdoor 0
+SS Adobe Large Trapdoor 0
+SS Glass Large Trapdoor 0
+SS Metal Large Trapdoor 0
+SS Stone Large Trapdoor 0
+SS Tek Large Trapdoor 0
+SS Adobe XL Trapdoor 0
+SS Glass XL Trapdoor 0
+SS Metal XL Trapdoor 0
+SS Stone XL Trapdoor 0
+SS Tek XL Trapdoor 0
+SS Adobe Window 0
+SS Small Crop Plot 0
+SS Wood Window 0
+SS Wood Catwalk 0
+SS Glass Catwalk 0
+SS Glass Ceiling 0
+SS Wood Ceiling 0
+SS Adobe Ceiling 0
+SS Thatch Ceiling 0
+SS Adobe Tri Ceiling 0
+SS Glass Tri Ceiling 0
+SS Wood Tri Ceiling 0
+SS Adobe Doorframe 0
+SS Thatch Ceiling 0
+SS Glass Doorframe 0
+SS Thatch Doorframe 0
+SS Wood Doorframes 0
+SS Glass Double Doorframe 0
+SS Adobe Fence Foundation 0
+SS Metal Fence Foundation 0
+SS Stone Fence Foundation 0
+SS Tek Fence Foundation 0
+SS Wood Fence Foundation 0
+SS Adobe Fence Support 0
+SS Metal Fence Support 0
+SS Stone Fence Support 0
+SS Tek Fence Support 0
+SS Wood Fence Support 0
+SS Adobe Foundation 0
+SS Glass Foundation 0
+SS Wood Foundation 0
+SS Thatch Foundation 0
+SS Adobe Tri Foundation 0
+SS Glass Tri Foundation 0
+SS Wood Tri Foundation 0
+SS Ocean Wood Foundation 0
+SS Metal Foundation 10000
+SS Metal Tri Foundation 1000
+SS Ocean Metal Foundation 3
+SS Stone Foundation 200
+SS Stone Tri Foundation 100
+SS Tek Foundation 500
+SS Tek Tri Foundation 0
+SS Underwater Cube 300
+SS Underwater Moonpool 10
+SS Underwater Cube Sloped 0
+SS Wood Foundation 0
